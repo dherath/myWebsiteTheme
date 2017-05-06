@@ -1,0 +1,27 @@
+---
+layout: default
+title: HowTos
+---
+
+{% include intro.html %}
+
+<section class="howtos-list">
+  <div class="container">
+    {% for howto in site.howtos %}
+      {% unless howto.next %}
+        <h2 class="category-title">{{ howto.date | date: '%Y' }}</h2>
+      {% else %}
+        {% capture year %}{{ howto.date | date: '%Y' }}{% endcapture %}
+        {% capture nyear %}{{ howto.next.date | date: '%Y' }}{% endcapture %}
+        {% if year != nyear %}
+          <h2 class="category-title">{{ howto.date | date: '%Y' }}</h2>
+        {% endif %}
+      {% endunless %}
+      <article class="howto-item">
+        <span class="howto-meta date-label">{{ post.date | date: "%b %d" }}</span>
+        <div class="article-title"><a class="howto-link" href="{{ howto.url | prepend: site.baseurl }}">{{ howto.title }}</a></div>
+      </article>
+    {% endfor %}
+  </div>
+
+</section>
