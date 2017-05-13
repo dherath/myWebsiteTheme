@@ -6,7 +6,6 @@ permalink : /blog/
 
 ---
 <ul class="post-list">
-  <!--<div class="container">-->
     {% for post in site.posts %}
       {% unless post.next %}
         <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
@@ -22,6 +21,4 @@ permalink : /blog/
         <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
       </article>
     {% endfor %}
- <!-- </div>-->
-
 </ul>
