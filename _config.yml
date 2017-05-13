@@ -30,7 +30,8 @@ sass:
 # Author settings
 author:
   name     : "Dinal Herath"
-  job      : "Software "
+  #job      : "Welcome to my blog"
+  greeting : "welcome to my blog"
   bio      : " bla bla bla bla bla bla."
   thumb    : /images/author.jpg
   email    : #hnrird@gmail.com
