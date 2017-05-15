@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Blog
+layout: blog
+<!--title: Blog-->
 permalink : /blog/
 ---
 
----
+
 <ul class="post-list">
     {% for post in site.posts %}
       {% unless post.next %}
