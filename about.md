@@ -19,7 +19,7 @@ permalink: /about/
 
 #### Scholarships
 
-* MIND (Munasinghe Institute for Development) scholarship (2015-2016).[www.mindlanka.org](http://www.mindlanka.org/past.cfm?page=aa){:target="_blank"}
+* MIND (Munasinghe Institute for Development) scholarship (2015-2016). [(www.mindlanka.org)](http://www.mindlanka.org/past.cfm?page=aa){:target="_blank"}
 
 
 #### Experience
