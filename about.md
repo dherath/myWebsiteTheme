@@ -5,12 +5,15 @@ permalink: /about/
 ---
 
 
-<a href="mailto:dinal.bing@gmail.com"><i class="fa fa-envelope" style="font-size:26px;color:#2294bd" ></i></a>
+
+Hi! I'm Dinal Herath a computer science graduate student at State University of New York (SUNY) Binghamton coming Fall 2017.I completed my bachelors degree in science from University of Colombo, Sri Lanka specializing in computational physics.
+
+<img src="/assets/img/image.jpg" style="height:120px;" align="float:left">
+
+<a href="mailto:dinal.bing@gmail.com"><i class="fa fa-envelope" style="font-size:24px;color:#2294bd" ></i></a>
 <i class="fa fa-facebook-square" style="font-size:26px;color:#2294bd"></i>
 <a href="https://github.com/dherath" target="blank"><i class="fa fa-github-square" style="font-size:26px;color:#2294bd"></i></a>
-<a href="https://www.researchgate.net/profile/Dinal_Herath" target="blank"><i style="font-size:26px;color:#2294bd"><img src="/assets/img/icons/researchgate-logo.svg" style="height:22px"></i></a>
-
-Hi! I'm Dinal Herath a computer science graduate student at State University of New York (SUNY) Binghamton coming Fall 2017. I completed my bachelors degree in science from University of Colombo, Sri Lanka specializing in computational physics.
+<a href="https://www.researchgate.net/profile/Dinal_Herath" target="blank"><i style="font-size:26px;color:#2294bd"><img src="/assets/img/icons/researchgate-logo.svg" style="height:21px"></i></a>
 
 ## Research Interests
 
