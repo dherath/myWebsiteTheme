@@ -4,20 +4,18 @@ title: About
 permalink: /about/
 ---
 
-
-
-Hi! I'm Dinal Herath a computer science graduate student at State University of New York (SUNY) Binghamton coming Fall 2017.I completed my bachelors degree in science from University of Colombo, Sri Lanka specializing in computational physics.
-
-<img src="/assets/img/image.jpg" style="height:120px;" align="float:left">
-
-<a href="mailto:dinal.bing@gmail.com"><i class="fa fa-envelope" style="font-size:24px;color:#2294bd" ></i></a>
-<i class="fa fa-facebook-square" style="font-size:26px;color:#2294bd"></i>
-<a href="https://github.com/dherath" target="blank"><i class="fa fa-github-square" style="font-size:26px;color:#2294bd"></i></a>
-<a href="https://www.researchgate.net/profile/Dinal_Herath" target="blank"><i style="font-size:26px;color:#2294bd"><img src="/assets/img/icons/researchgate-logo.svg" style="height:21px"></i></a>
+<div class="post-container">
+  <div class="post-image-1" align="right">
+    <img src="/assets/img/image.jpg" style="width:250px;padding:10px" align="right">
+  </div>
+  <div class="post-content">
+    <p align="justify" style="width:500px">Hi! I'm Dinal Herath a computer science graduate student at State University of New York (SUNY) Binghamton coming Fall 2017.I completed my bachelors degree in science from University of Colombo, Sri Lanka specializing in computational physics.</p>
+  </div>
+</div>
 
 ## Research Interests
 
-My research work at SUNY Binghamton would generally fall under the categories of Internet of Things(IoT), smart grids while during my undergrad days I was part of the robotics research group where I simulated different movement algorithms for biologically inspired snake robots. If you're interested in my work please visit my research gate page, where I'd be happy to share my work with anyone interested.
+<p align="justify">My research work at SUNY Binghamton would generally fall under the categories of Internet of Things(IoT), smart grids while during my undergrad days I was part of the robotics research group where I simulated different movement algorithms for biologically inspired snake robots. If you're interested in my work please visit my research gate page, where I'd be happy to share my work with anyone interested.</p>
 
 ## Publications
 
