@@ -2,17 +2,17 @@
 # SEO settings
 title: "dinal"
 title2: "Herath" # default: ""
-description: "Just another minimalist Jekyll theme for technical writing."
-keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url: http://heiswayi.github.io/thinkspace # site url
+# description: "Just another minimalist Jekyll theme for technical writing."
+# keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+# url: http://heiswayi.github.io/thinkspace # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: http://github.com/heiswayi/thinkspace
-disqus_shortname: "hnbloggithub"
-twitter_username: "HeiswayiNrird"
-comments: true
+# repo: http://github.com/heiswayi/thinkspace
+# disqus_shortname: "hnbloggithub"
+# twitter_username: "HeiswayiNrird"
+# comments: true
 
 # Build settings
 permalink   : /:year/:title/
@@ -32,8 +32,8 @@ author:
   name     : "Dinal Herath"
   #job      : "Welcome to my blog"
   greeting : "welcome to my blog"
-  bio      : " bla bla bla bla bla bla."
-  thumb    : /images/author.jpg
+  bio      : " bla bla bla bla bla bla :P."
+  thumb    : /assets/images/sherlock.jpg
   email    : #hnrird@gmail.com
   url      : #http://heiswayi.github.io
   github   : #http://github.com/heiswayi
