@@ -18,8 +18,6 @@ Modeling & Simulation (ICCMS-2017).
 Undulation Motion Using Gazebo. In: 2016 IEEE International Conference on Information and
 Automation for Sustainability (ICIAfS) (ICIAfS 2016).
 
-
-
 #### Scholarships
 
 * MIND (Munasinghe Institute for Development) scholarship (2015-2016) <a href="http://www.mindlanka.org/past.cfm?page=aa" target="_blank">(www.mindlanka.org)</a>
