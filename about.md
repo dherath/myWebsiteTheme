@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 <p align="justify">Hi! I'm Dinal Herath a computer science graduate student at State University of New York (SUNY) Binghamton coming Fall 2017. I completed my bachelors degree in science from University of Colombo, Sri Lanka specializing in computational physics.</p>
 
 #### Research
@@ -12,13 +11,17 @@ permalink: /about/
 
 #### Publications
 
-* Herath, D. and Jayananda, K. (2017). Simulation of Symmetric and Asymmetric movement gaits for
-Lateral Undulation in Serial Snake Robots. In: 2017 International Conference on Computational
-Modeling & Simulation (ICCMS-2017).
-* Herath, D. and Jayananda, K. (2016). Comparison of Serial and Parallel Snake Robots for Lateral
-Undulation Motion Using Gazebo. In: 2016 IEEE International Conference on Information and
-Automation for Sustainability (ICIAfS) (ICIAfS 2016).
+###### Conference
+
+* **Herath, D.** and Jayananda, K. (2017). Simulation of Symmetric and Asymmetric movement gaits for Lateral Undulation in Serial Snake Robots. In: 2017 International Conference on Computational Modeling & Simulation (ICCMS-2017).[[RG_link]](https://www.researchgate.net/publication/311716282_Comparison_of_Serial_and_Parallel_Snake_Robots_for_Lateral_Undulation_Motion_using_Gazebo){:target="_blank"}
+
+* **Herath, D.** and Jayananda, K. (2016). Comparison of Serial and Parallel Snake Robots for Lateral Undulation Motion Using Gazebo. In: 2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS) (ICIAfS 2016).[[RG_link]](https://www.researchgate.net/publication/317015239_Simulation_of_Symmetric_and_Asymmetric_movement_gaits_for_Lateral_Undulation_in_Serial_Snake_Robots){:target="_blank"}
 
 #### Scholarships
 
-* MIND (Munasinghe Institute for Development) scholarship (2015-2016) <a href="http://www.mindlanka.org/past.cfm?page=aa" target="_blank">(www.mindlanka.org)</a>
+* MIND (Munasinghe Institute for Development) scholarship (2015-2016)
+ <a href="http://www.mindlanka.org/past.cfm?page=aa" target="_blank" > (www.mindlanka.org) </a>
+
+#### Experience
+
++ Temporary Lecturer, Department of Physics, University of Colombo.(2017)
