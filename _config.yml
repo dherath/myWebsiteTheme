@@ -33,7 +33,7 @@ author:
   #job      : "Welcome to my blog"
   greeting : "welcome to my blog"
   bio      : " bla bla bla bla bla bla :P."
-  thumb    : /assets/images/sherlock.jpg
+  thumb    : #/assets/images/sherlock.jpg
   email    : #hnrird@gmail.com
   url      : #http://heiswayi.github.io
   github   : #http://github.com/heiswayi
