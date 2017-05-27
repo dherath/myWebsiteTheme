@@ -25,3 +25,7 @@ Now a in-line math with special character:  $$\mid\psi\rangle$$, $$x'$$, $$x^\as
 \end{align}
 
 #### [3]
+https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
+- [finish off the math post]
+-[change the intro a bit]
+- [add my picture ]  
